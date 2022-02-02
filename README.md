@@ -3,18 +3,21 @@
 ### Web Designer and Web Developer 
 
 I am Ulor Michael from Nigeria. I am a Web designer and developer with 5 years experience. 
-I enjoy learning, building websites and applications. I am skilled in React and Node.Js.
-I am a team player who likes to look for problems that needs solutions. I am creative in my own skills.
+I enjoy learning, building websites and applications. I am a team player who likes to look for problems that needs solutions. I am creative in my own skills.
+
+## Skills and Experience
+
+Skills: HTML/CSS | JavaScript | React.Js | Node.Js.
 
 You can check me out on my LinkedIn Account:
 https://www.linkedin.com/in/ulormichael/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning React.Js
+- 👯 I’m looking to collaborate on React.Js
+- 🤔 I’m looking for help with internship roles, Volunteer jobs and open job opportunities
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ulormichael@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: Love Graphics designing
 -->
