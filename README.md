@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Ulor MIchael
 
-<!--
-**ulormichael/ulormichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Designer and Web Developer 
 
-Here are some ideas to get you started:
+I am Ulor Michael from Nigeria. I am a Web designer and developer with 5 years experience. 
+I enjoy learning, building websites and applications. I am skilled in React and Node.Js.
+I am a team player who likes to look for problems that needs solutions. I am creative in my own skills.
+
+You can check me out on my LinkedIn Account:
+https://www.linkedin.com/in/ulormichael/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
