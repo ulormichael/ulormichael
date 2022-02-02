@@ -20,4 +20,3 @@ https://www.linkedin.com/in/ulormichael/
 - 📫 How to reach me: ulormichael@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Love Graphics designing
--->
