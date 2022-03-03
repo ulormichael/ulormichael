@@ -9,8 +9,12 @@ I enjoy learning, building websites and applications. I am a team player who lik
 
 Skills: HTML/CSS | JavaScript | React.Js | Node.Js | Microsoft Power Platform/ Power App / Power Automate
 
-You can check me out on my LinkedIn Account:
+## Social links
+You can check me out on LinkedIn Account:
 https://www.linkedin.com/in/ulormichael/
+
+Check me out on stack:
+https://stackoverflow.com/users/15304849/ulor-michael
 
 
 - 🔭 I’m currently working on this page.
@@ -21,3 +25,4 @@ https://www.linkedin.com/in/ulormichael/
 - 📫 How to reach me: ulormichael@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I am a web designer and same time i love to code. Take time to check me out on my CodeSignal account: https://app.codesignal.com/profile/ulormichael
+- 
