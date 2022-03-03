@@ -30,4 +30,4 @@ https://app.codesignal.com/profile/ulormichael
 - 💬 Ask me about ...
 - 📫 How to reach me: ulormichael@gmail.com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am a web designer and same time i love to code.
+- ⚡ Fun fact: I am a web designer and i love to code.
