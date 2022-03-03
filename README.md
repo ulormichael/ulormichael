@@ -7,7 +7,7 @@ I enjoy learning, building websites and applications. I am a team player who lik
 
 ## Skills and Experience
 
-Skills: HTML/CSS | JavaScript | React.Js | Node.Js.
+Skills: HTML/CSS | JavaScript | React.Js | Node.Js | Microsoft Power Platform/ Power App / Power Automate
 
 You can check me out on my LinkedIn Account:
 https://www.linkedin.com/in/ulormichael/
