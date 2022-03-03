@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ulor MIchael
+### Hi there 👋, I am Ulor MIchael
 
 ### Web Designer and Web Developer 
 
