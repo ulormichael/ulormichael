@@ -25,4 +25,3 @@ https://stackoverflow.com/users/15304849/ulor-michael
 - 📫 How to reach me: ulormichael@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I am a web designer and same time i love to code. Take time to check me out on my CodeSignal account: https://app.codesignal.com/profile/ulormichael
-- 
