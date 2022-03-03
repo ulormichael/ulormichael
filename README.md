@@ -13,8 +13,14 @@ Skills: HTML/CSS | JavaScript | React.Js | Node.Js | Microsoft Power Platform/ P
 You can check me out on LinkedIn Account:
 https://www.linkedin.com/in/ulormichael/
 
+Check me out on Twitter:
+https://www.twitter.com/ulorseries
+
 Check me out on stack:
 https://stackoverflow.com/users/15304849/ulor-michael
+
+Check me out on my CodeSignal account: 
+https://app.codesignal.com/profile/ulormichael
 
 
 - 🔭 I’m currently working on this page.
@@ -24,4 +30,4 @@ https://stackoverflow.com/users/15304849/ulor-michael
 - 💬 Ask me about ...
 - 📫 How to reach me: ulormichael@gmail.com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am a web designer and same time i love to code. Take time to check me out on my CodeSignal account: https://app.codesignal.com/profile/ulormichael
+- ⚡ Fun fact: I am a web designer and same time i love to code.
