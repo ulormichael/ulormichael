@@ -12,6 +12,7 @@ Skills: HTML/CSS | JavaScript | React.Js | Node.Js.
 You can check me out on my LinkedIn Account:
 https://www.linkedin.com/in/ulormichael/
 
+
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on React.Js
@@ -19,4 +20,4 @@ https://www.linkedin.com/in/ulormichael/
 - 💬 Ask me about ...
 - 📫 How to reach me: ulormichael@gmail.com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: Love Graphics designing
+- ⚡ Fun fact: I am designer and same time i love to code. Take time to check me out on my CodeSignal account: https://app.codesignal.com/profile/ulormichael
