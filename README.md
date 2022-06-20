@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Ulor MIchael
 
-### Web Designer and Web Developer 
+### Web Developer 
 
-I am Ulor Michael from Nigeria. I am a Web designer and developer with 5 years experience. 
+I am Ulor Michael from Nigeria. I am a Web developer looking for entry level roles as a Web Developer. 
 I enjoy learning, building websites and applications. I am a team player who likes to look for problems that needs solutions. I am creative in my own skills.
 
 ## Skills and Experience
