@@ -1,14 +1,5 @@
-### Hi there 👋 I am Ulor Michael, A Front-End Developer from Nigeria. Welcome to my Github account.
+### Hi there 👋 
 
+I am Ulor Michael, A Front-End Developer from Nigeria. Welcome to my GitHub page. You can reach me on Twitter: https://www.twitter.com/ulorseries and on LinkedIn: https://www.linkedin.com/ulormichael
 
-Here are some things i love doing...
-
-- 🔭 I’m currently working on ... Everything programming to improve my skills
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ... Web programming
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... ulormichael@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love Coding
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulormichael)](https://github.com/anuraghazra/github-readme-stats)
