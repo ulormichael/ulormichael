@@ -1,3 +1,4 @@
+![profile-pix-banner](https://github.com/ulormichael/ulormichael/assets/57299055/eb27335f-8ccb-4c1e-b225-007d16f25fe0)
 ### Hi there 👋 Welcome to my GitHub Page
 ### Front-End Developer
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulormichael)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,4 +13,5 @@ Skills: PYTHON / REACT /NODE / JS / HTML / CSS
 💬 Ask me about Anything Front-End Development
 📫 How to reach me: ulormichael@gmail.com
 ⚡ Fun fact: I love coding
-github dev linkedin instagram twitter stackoverflow website
+
+
