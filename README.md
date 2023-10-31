@@ -8,10 +8,15 @@ Hello, I’m Ulor Michael, a passionate Front-End Developer with a keen eye for 
 Skills: PYTHON / REACT /NODE / JS / HTML / CSS
 
 🔭 I’m currently working on this page.
+
 🌱 I’m currently learning Python
+
 🤔 I’m looking for help with Job Opportunities
+
 💬 Ask me about Anything Front-End Development
+
 📫 How to reach me: ulormichael@gmail.com
+
 ⚡ Fun fact: I love coding
 
 
