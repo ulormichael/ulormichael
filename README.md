@@ -22,7 +22,7 @@ Hello, I’m Ulor Michael, a passionate Front-End Developer with a keen eye for 
 
 🤔 I’m looking for help with Job Opportunities
 
-💬 Ask me about Anything Front-End Development
+💬 Ask me about anything on Front-End Development
 
 📫 How to reach me: ulormichael@gmail.com
 
