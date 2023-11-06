@@ -6,7 +6,7 @@
 
 #### Hello, I’m Ulor Michael, a passionate Front-End Developer from Nigeria with a keen eye for design and a commitment to crafting exceptional user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in creating responsive, intuitive, and visually appealing websites. My goal is to bridge the gap between design and functionality, ensuring that every project I work on not only looks great but also performs seamlessly. Let’s connect and explore the endless possibilities of the digital world together.
 
-## Skills and Experience: 
+## Skills and Experience:
 
 💻 PYTHON 
 
@@ -28,7 +28,7 @@
 
 ⚡ Fun fact: I love coding and building apps
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ulormichael)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ulormichael)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ulormichael/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/officialulorseries/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ulorseries)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ulormichael)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ulormichael)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ulormichael/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/officialulorseries/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ulorseries)  
 
 
 
