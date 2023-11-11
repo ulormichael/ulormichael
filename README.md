@@ -16,7 +16,7 @@ Hello!☺ I’m Ulor Michael, a passionate Front-End Developer from Nigeria with
 
 💻 PYTHON 
 
-✨ Git/GitHub Version Control
+🐱 Git/GitHub Version Control
 
 🤖 ChatGPT: Implementation of ChatGPT for enhanced conversational interfaces
 
